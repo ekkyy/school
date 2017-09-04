@@ -6,4 +6,4 @@
   * https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf
   * https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf
   * https://www.mccme.ru/free-books/shen/shen-logic-part3-2.pdf
-
+  * https://vk.com/doc18304700_410802001
