@@ -24,6 +24,8 @@ for i in range(10):
 
 
 
+
+
 s = 'fDDDbh iv  sjs wr   '
 print(s.replace('D', '?').strip().split(' '))
 
