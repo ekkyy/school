@@ -13,6 +13,7 @@ for i in range(2):
 # # 	print(a)
 
 
+
 bb = dict()
 for i in range(10):
 	bb[i ** 2] = (str(i), str(float(i)))
